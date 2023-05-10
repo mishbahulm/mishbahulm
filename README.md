@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Muhammad Mishbahul Munir
 - 🔭 I’m currently working on [PT Mitra Integrasi Informatika](https://www.mii.co.id/)
-- 🌱 I’m currently learning kotlin & flutter
+- 🌱 I’m currently learning how to be a good Project Manager
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/)
 
 <p align="left">
